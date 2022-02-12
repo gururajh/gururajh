@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gurruaj
+- 👋 Hi, I’m @Gururaj
 - 👀 I’m interested in ... Python and Data Visualization
 - 🌱 I’m currently learning Python and Data Visualization
 - 💞️ I’m looking to collaborate on Python and Data Visualization
