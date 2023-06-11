@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gururaj
-- 👀 I’m interested in ... Python and Data Visualization
-- 🌱 I’m currently learning Python and Data Visualization
-- 💞️ I’m looking to collaborate on Python and Data Visualization
+- 👀 I’m learning about improving the quality of a product.
+- I am a tester by profession - Student and curious about 
+- 🌱 I’m currently learning Cloud Infrastructure and DevOps
 - 📫 How to reach me ...gururajh83@gmail.com
 
 <!---
