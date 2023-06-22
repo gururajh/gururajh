@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gururaj
 - 👀 I’m learning about improving the quality of a product.
-- I am a tester by profession - Student and curious about JRE to... Ranganaa
+- I am a tester by profession - Student and curious about JoeRogan to... Ranganaa
 - 🌱 I’m currently learning Cloud Infrastructure and DevOps
 - 📫 How to reach me ...gururajh83@gmail.com
 
