@@ -1,12 +1,15 @@
 ## Portfolio
 
-I'm a seasoned Software Testing Engineer with a decade of experience in ensuring top-notch quality. I'm passionate about crafting robust and reliable software solutions.
+> - Seasoned Software Testing Engineer with a decade of experience in ensuring top-notch quality and passionate about crafting robust and reliable software solutions.
+> - ISTQB Certified Agile Tester.
 
 ## My Expertise:
 
-Functional Testing: Meticulously testing software features to ensure they meet requirements and work as expected.
-UI Testing: Scrutinizing user interfaces for seamless user experiences and visual appeal.
-Medical Device Testing: Rigorously testing life-saving medical devices to guarantee safety and efficacy.
+> - Functional Testing: Meticulously testing software features to ensure they meet requirements and work as expected.
+> - UI Testing: Scrutinizing user interfaces for seamless user experiences and visual appeal.
+> - Medical Device Testing: Rigorously testing life-saving medical devices to guarantee safety and efficacy.
+## Learning
+> - Currently Learning - PlayWright Tool using Java Script.
 
 ## My Mission:
 
@@ -15,7 +18,7 @@ To deliver exceptional quality through meticulous testing and a relentless pursu
 
 ## Experience
 
-### Oracle India Private Ltd -  Senior QA Engineer May -2022 to Present 
+### Oracle India Private Ltd -  Senior QA Engineer May  -  2022 to Present 
 ### Qualitest India Private Ltd -**Senior QA Engineer** - Nov -2018 to Apr-2022
 ### Cardiac Design Lab Private Ltd **Validaton Engineer** Dec 2013 - Apr-2018
 
