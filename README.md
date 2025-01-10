@@ -18,9 +18,9 @@ To deliver exceptional quality through meticulous testing and a relentless pursu
 
 ## Experience
 
-### Oracle India Private Ltd -  Senior QA Engineer May  -  2022 to Present 
-### Qualitest India Private Ltd -**Senior QA Engineer** - Nov -2018 to Apr-2022
-### Cardiac Design Lab Private Ltd **Validaton Engineer** Dec 2013 - Apr-2018
+### Oracle India Private Ltd -   **Senior QA Engineer** - May-2022 to Present 
+### Qualitest India Private Ltd -**Senior QA Engineer** - Nov-2018 to Apr-2022
+### Cardiac Design Lab Private Ltd **Validaton Engineer** Dec 2013 to Apr-2018
 
 
 Let's Connect! - gururajh83@gmail.com
