@@ -30,6 +30,8 @@ To deliver exceptional quality through meticulous testing and a relentless pursu
 ## 💬 Ask me about 
 
 > - **Functional Testing**
+> - **Testing Android and iOS Applications**
+> - **Testing Web Applications**
 > - **Medical Device Testing**
 > - **ISO 13485**
 > - **DICOM**
