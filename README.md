@@ -10,7 +10,7 @@
 > - Medical Device Testing: Rigorously testing life-saving medical devices to guarantee safety and efficacy.
 
 ## Learning
-> - Currently Learning - PlayWright Tool using Java Script.
+> - Currently Learning - Playwright Tool using Type Script.
 > - API Automation.
 > - Prompt Engineering and how it can aid in Software Testing.
 > - LLM's and How to test them.
